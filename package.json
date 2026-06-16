@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/ndarray-base-rotr90": "github:stdlib-js/ndarray-base-rotr90#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.5.1"
   },
   "devDependencies": {
     "@stdlib/array-complex128": "^0.3.2",
