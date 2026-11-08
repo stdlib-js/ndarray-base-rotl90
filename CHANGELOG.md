@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-11-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`8c95fbf`](https://github.com/stdlib-js/stdlib/commit/8c95fbf9f000fba1e6a302792a33ac7394262a1c) - **docs:** fix comment _(by Athan Reines)_
 -   [`59d0640`](https://github.com/stdlib-js/stdlib/commit/59d0640a16660401392d422f98261c2f9c8cb4be) - **docs:** propagate recent fixes to sibling packages [(#11671)](https://github.com/stdlib-js/stdlib/pull/11671) _(by Philipp Burckhardt)_
 -   [`9ef9c56`](https://github.com/stdlib-js/stdlib/commit/9ef9c56b8d3fccad2b75d4f4316f7a99fa5bc660) - **feat:** add `ndarray/base/rotl90` [(#11633)](https://github.com/stdlib-js/stdlib/pull/11633) _(by Muhammad Haris)_
